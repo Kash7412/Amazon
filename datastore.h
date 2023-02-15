@@ -19,7 +19,6 @@
 class DataStore {
 public:
     virtual ~DataStore() { }
-
     /**
      * Adds a product to the data store
      */
